@@ -1,0 +1,6 @@
+cd ~/emacs
+cd pkg
+
+git clone git://github.com/diogofsr/paste-kde.git
+#git clone git@github.com:metaperl/ecb.git
+#git clone git://github.com/emacs-helm/helm.git
