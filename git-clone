@@ -1,5 +1,4 @@
-cd ~/emacs
-cd pkg
+cd ~/emacs-pkg
 
 git clone git://github.com/diogofsr/paste-kde.git
 #git clone git@github.com:metaperl/ecb.git
